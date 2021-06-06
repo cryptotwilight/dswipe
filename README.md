@@ -21,4 +21,4 @@ The demo can be run by cloning this repository.
 
 Additional instructions will be added as the build proceeds 
 
-To contribute or comment contact feel free to contact @cryptotwilight on the NEAR forums.
+To contribute or comment contact feel free to contact [@cryptotwilight](https://gov.near.org/u/cryptotwilight/summary) on the NEAR forums.
